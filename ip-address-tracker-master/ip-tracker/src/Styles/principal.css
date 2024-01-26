@@ -1,0 +1,9 @@
+*{
+    font-family: 'Rubik'
+}
+
+body{
+    margin:0px;
+    height:100%;
+    overflow-y: hidden;
+}

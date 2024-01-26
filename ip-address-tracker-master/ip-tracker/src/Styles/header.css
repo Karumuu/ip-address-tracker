@@ -1,0 +1,47 @@
+.header {
+    background-image: url("/@fs/C:/Users/Fanta/Documents/Front/ip-address-tracker-master (1)/ip-address-tracker-master/images/pattern-bg-desktop.png");
+    background-size: cover;
+    padding: 3vw;
+    z-index: 1;
+    position: relative;
+}
+
+.header h1{
+    margin:0px;
+    color:white;
+    padding-bottom:2vw;
+    font-size:2vw;
+}
+
+.search img{
+
+        background-color: #030303;
+        padding: 1.2vw 1.5vw;
+        border-radius: 0px 1vw 1vw 0px;
+    
+}
+
+.search input{
+ 
+        font-size: 1.250vw;        
+        padding: 1vw 1.5vw;
+        border-radius:1vw 0px 0px 1vw;
+        border:none;
+    
+}
+
+.search{
+    display: flex;
+    justify-content: center;
+    margin-bottom:4vw;
+}
+
+button {
+    border: none;
+    padding: 0;
+    margin: 0;
+    outline: none;
+    background-color: transparent;
+    width: auto;
+    height: auto;
+}
