@@ -8,3 +8,26 @@
 #root > div > div:nth-child(3){
     height: 64vh !important;
 }
+
+/*TABLET SIZE*/
+@media(min-width: 671px) and (max-width:1024px){
+    #map {
+      
+        height: 100vh;
+        
+    }
+}
+
+/* PHONE SIZE*/
+@media (max-width: 600px){
+    #map {
+        position: relative;
+        width: 100%;
+        height: 100vh;
+        z-index: 0;
+    }
+
+    #root > div > div:nth-child(3){
+        height: 100vh !important;
+    }
+}

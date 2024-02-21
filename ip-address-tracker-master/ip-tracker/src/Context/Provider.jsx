@@ -117,8 +117,8 @@ const MapProvider = ({ children }) => {
 
   //FIN API IP
 
-  //NOMINATIM
-  const NominatimIpAddress = async () => {
+  //NOMINATIM /NO SE USÓ DE MOMENTO
+  /*const NominatimIpAddress = async () => {
     console.log("datos nominatim ", datos);
 
     var nominatimUrl = `https://nominatim.openstreetmap.org/search?format=json&q=${encodeURIComponent(
@@ -135,7 +135,7 @@ const MapProvider = ({ children }) => {
         setCoords({ ...coords, lat: lat, lon: lon });
       })
       .catch((error) => console.error("Error:", error));
-  };
+  };*/
 
   //FIN NOMINATIM
 

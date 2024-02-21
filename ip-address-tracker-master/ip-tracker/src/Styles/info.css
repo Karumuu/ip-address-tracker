@@ -46,3 +46,37 @@ p.titleInfo {
     border-right: 2px solid #DDDDDD;
    
   }
+
+  @media(max-width: 670px){
+    .dataSearch{
+        display:block;
+        width: 75vw;
+        border-radius: 10px;
+        top: 35vw;
+    }
+    
+    .infoData {
+        height: 8vh;
+        text-align: center;
+        display: grid;
+       padding-bottom: 0px;
+      align-content: center;
+    }
+    
+    p.titleInfo{
+        font-size: 3vw;
+    }
+    
+    p.data{
+        text-align: center;
+        font-size: 4.3vw;
+        width:auto;
+    }
+
+    .infoData:not(:last-child) {
+        border: none;
+       
+      }
+
+      
+  }

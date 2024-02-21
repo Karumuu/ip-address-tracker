@@ -1,3 +1,4 @@
+
 .header {
     background-image: url("/@fs/C:/Users/Fanta/Documents/Front/ip-address-tracker-master (1)/ip-address-tracker-master/images/pattern-bg-desktop.png");
     background-size: cover;
@@ -44,4 +45,44 @@ button {
     background-color: transparent;
     width: auto;
     height: auto;
+}
+
+/*TABLET SIZE*/
+@media(min-width: 671px) and (max-width:1024px){
+    .search input {
+        font-size: 20px;
+    }
+}
+
+/*PHONE SIZE*/
+@media(max-width:670px) {
+    
+
+.header{
+    height: 28vh;
+}
+
+.header h1{
+    font-size:4.8vw;
+}
+
+.search input {
+    font-size: 18px;
+    padding: 10px 20px;
+    width: 54vw;
+    border-radius: 10px 0px 0px 10px;
+}
+
+button {
+    padding: 0;
+    display: contents
+}
+
+.search img {
+    background-color: #030303;
+    padding: 25px 25px;
+    border-radius: 0px 10px 10px 0px;
+}
+
+
 }

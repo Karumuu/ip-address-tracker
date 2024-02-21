@@ -22,7 +22,7 @@ const Header = () => {
     }else if(ipv6Pattern.test(ipAd) === true){
       searchLocation(ipAd, "ipv6")
     } else {
-      alert("Please type a correct Ip Address format")
+      alert("Please type a correct Ipv4 Address format")
     }
   };
 
