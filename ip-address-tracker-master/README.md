@@ -5,7 +5,7 @@ Hello everyone, there is a new challenge where I worked with leaflet, marker and
 this is the second time I work with that kind of information, it was very funny and exciting to work with it again.
 
 **Status**: 
--General testing
+-I'll work in Frontmentor corrections
 
 ## PROJECT
 **Technolgies**: HTML, CSS, Javascript, HTML, ReactJS using Context and Provider, Vite, [leafletJS](https://leafletjs.com/), [geolocation API](https://ipgeolocation.io/documentation/ip-geolocation-api.html).
