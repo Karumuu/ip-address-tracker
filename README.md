@@ -12,6 +12,6 @@ this is the second time I work with that kind of information, it was very funny 
 
 [Live Demo](https://65b33bad3880fd7a9d87df9b--euphonious-valkyrie-1818c7.netlify.app/) | [FrontMentor Challenge](https://www.frontendmentor.io/challenges/ip-address-tracker-I8-0yYAH0) | [ipgeolocation API](https://ipgeolocation.io/documentation.html)
 
-![Design preview for the IP address tracker coding challenge](./design/frontmentorip.png)
+![Design preview for the IP address tracker coding challenge](ip-address-tracker-master/design/frontmentorip.png)
 
 
